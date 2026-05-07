@@ -1,7 +1,0 @@
-<html>
-<head>
-</head>
-<body>
-홍길동 바보!!
-</body>
-</html>
